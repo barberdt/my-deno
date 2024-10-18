@@ -1,0 +1,4 @@
+{
+  "name": "@methods/add",
+  "exports": "./index.ts"
+}
